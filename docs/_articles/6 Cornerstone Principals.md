@@ -1,7 +1,8 @@
 ---
 Title: "High Performance Leadership - 6 Cornerstone Principals Explained"
 Type: Article
-excerpt: This article explains Professor Pienaar's 6 cornerstone principals of leadership that are based in psychology and economics and their practical application in modern leadership.
+layout: collection
+Excerpt: This article explains Professor Pienaar's 6 cornerstone principals of leadership that are based in psychology and economics and their practical application in modern leadership.
 ---
 # High Performance Leadership:   6 Cornerstone Principals Explained
 Many years ago, I was fortunate enough to be mentored by Professor W.D. Pienaar, a visionary leader in negotiation, advanced management and profiling, and a Professor Emeritus at UNISA Business School. Professor Pienaar identified 6 cornerstone principals of leadership that are based in psychology and economics that have proven over time to be highly effective. I wanted to share his cornerstone principals with you to ensure his wisdom is passed to a new generation of leaders and to hopefully give you a deeper insight into human behavior, elevate your EQ, and help you to build, manage and motivate high-performing teams.
