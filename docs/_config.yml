@@ -63,10 +63,16 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://brianro.github.io/personal"
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/briansrogers/"
+    - label: "Resume"
+      icon: "fa-regular fa-file-pdf"
+      url: "/assets/docs/Brian-Rogers.pdf"
+    - label: "Full Resume"
+      icon: "fa-regular fa-file-pdf"
+      url: "/assets/docs/Brian-Rogers-full.pdf"
 
 footer:
   links:
