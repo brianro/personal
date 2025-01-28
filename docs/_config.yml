@@ -59,11 +59,11 @@ plugins:
 author:
   name   : "Brian Rogers"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Technology transformation and thought leader" #, Building high performing teams and platforms -> unconventional problem solver transforming teams and companies."
+  bio    : "unconventional problem solver, hands-on expert (as required), transforming tech teams, companies, systems and processes."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://brianro.github.io/personal"
+      url: "https://brian.rogers.austin-rogers.com/"
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/briansrogers/"

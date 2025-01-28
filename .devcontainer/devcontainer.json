@@ -1,18 +1,21 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/jekyll
 {
+	"runArgs": ["--name", "Jekyll"],
 	"name": "Jekyll",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/jekyll:2-bookworm"
+	"image": "mcr.microsoft.com/devcontainers/jekyll:2-bookworm",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	// "forwardPorts": [],
+	"forwardPorts": [4000],[35729]
 
 	// Uncomment the next line to run commands after the container is created.
-	// "postCreateCommand": "jekyll --version"
+	"postCreateCommand": "jekyll --version",
+
+	"postStartCommand": "./.devcontainer/postStartCommand.sh"
 
 	// Configure tool-specific properties.
 	// "customizations": {},

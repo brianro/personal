@@ -1,11 +1,20 @@
 ---
 Title: "High Performance Leadership - 6 Cornerstone Principals Explained"
 Type: Article
-layout: collection
+layout: default
+datePublished: 2024-05-06
 Excerpt: This article explains Professor Pienaar's 6 cornerstone principals of leadership that are based in psychology and economics and their practical application in modern leadership.
 ---
+
+<span style="float: right">
+<img src="/Assets/Images/leadership.jpg" width ="200px" height="200px" />
+</span>
+
 # High Performance Leadership:   6 Cornerstone Principals Explained
-Many years ago, I was fortunate enough to be mentored by Professor W.D. Pienaar, a visionary leader in negotiation, advanced management and profiling, and a Professor Emeritus at UNISA Business School. Professor Pienaar identified 6 cornerstone principals of leadership that are based in psychology and economics that have proven over time to be highly effective. I wanted to share his cornerstone principals with you to ensure his wisdom is passed to a new generation of leaders and to hopefully give you a deeper insight into human behavior, elevate your EQ, and help you to build, manage and motivate high-performing teams.
+Many years ago, I was fortunate enough to be mentored by Professor W.D. Pienaar, a visionary leader in negotiation, advanced management and profiling, and a Professor Emeritus at UNISA Business School.
+ Professor Pienaar identified 6 cornerstone principals of leadership that are based in psychology and economics that have proven over time to be highly effective.
+ 
+ I wanted to share his cornerstone principals with you to ensure his wisdom is passed to a new generation of leaders and to hopefully give you a deeper insight into human behavior, elevate your EQ, and help you to build, manage and motivate high-performing teams.
 
 ## Defining the 6 Principals
 
@@ -20,7 +29,9 @@ Many years ago, I was fortunate enough to be mentored by Professor W.D. Pienaar,
 5. Self-fulfilling prophecy (the "Ted Lasso effect") - repeating a prediction helps make a prediction come true. 
 
 6. Law of unintended consequences - for every action there is an additional unintended outcome.
+
 ## Practical Application
+
 1. Law of diminishing returns - Repeating a behavior has a reduced impact every repetition. This is a form of boredom. something is only new, fresh and impactful the first time. For example, a store with a sale every day stops drawing new customers. If you keep promising your team or your customers the same reward, the motivational effect declines over time. this is accelerated by non or partial delivery. Only randomization can help reduce the impact of this law, (see law 3). To keep your teams and your market energized, you need to keep things "new" or changing (which can also generate fatigue).
 
 2. Wolf effect - The financial crises of 2008 is an excellent example of this effect. Many analysts raised the alarm multiple times in advance of the crises, but the "Wolf effect" is why they were ignored when the crises did not occur immediately after the warning. After the crises their credibility was restored. Only raise an alarm when crises is imminent, even if you are right, or you will lose all credibility until after the crises occurs. Until then, gather and present your evidence to influence strategy and direction, instead of an alarm.
@@ -34,6 +45,7 @@ Many years ago, I was fortunate enough to be mentored by Professor W.D. Pienaar,
 6. Law of unintended consequences - This is the Achilles heel of KPI and goal- driven management strategies. When a group or leader attempts to solve a problem in isolation, the "solution" implementation often results in unexpected, undesirable human behaviors and a new set of problems. A simple example is an award for increased throughput metrics resulting in a drop in quality. As long as leaders focus on identifying problems, creating the solution and the success measurement themselves, this law of human nature will continue to generate unexpected negative outcomes. 
 
 ## Finally
+
 Understanding and utilizing these six principals can provide you with new tools for your EQ and audience-influencing toolbox that others may not have. They take practice and awareness for successful execution, so start using them now as your key differentiators.
 
-[Link to my original post](https://www.linkedin.com/pulse/high-performance-leadership-6-cornerstone-principals-explained-brian-idqqe?trackingId=sy7u2ojxSsGUIrpUjfHfeA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BouUv88zWRfuPjvqIm0hAkQ%3D%3D)
+[My original LI article](https://www.linkedin.com/posts/briansrogers_originalabrthoughtabrleadership-writtenabrbyabrahuman-activity-7193349608738050050-N72V?utm_source=share&utm_medium=member_desktop)
