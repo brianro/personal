@@ -6,6 +6,6 @@ permalink: /articles/
 entries_layout: grid
 classes: wide
 ---
-| Title  | Excerpt |
+| title  | excerpt |
 | ----- | -------- |{% for article in site.articles %}
-|[{::nomarkdown}A {{article.Title }}{:/}]({{article.url}})|{::nomarkdown}{{article.Excerpt }}{:/}|{% endfor %}
+|[{::nomarkdown}{{article.title }}{:/}]({{article.url}})|{::nomarkdown}{{article.excerpt }}{:/}|{% endfor %}

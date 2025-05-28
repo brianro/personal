@@ -1,16 +1,18 @@
 ---
-Title: "High Performance Leadership - 6 Cornerstone Principals Explained"
-Type: Article
-layout: default
+title: "High Performance Leadership - 6 Cornerstone Principals Explained"
+
+type: articles
 datePublished: 2024-05-06
-Excerpt: This article explains Professor Pienaar's 6 cornerstone principals of leadership that are based in psychology and economics and their practical application in modern leadership.
+date: 2024-05-06
+header:
+  overlay_image: /assets/images/leadership.jpg
+
+excerpt: This article explains Professor Pienaar's 6 cornerstone principals of leadership that are based in psychology and economics and their practical application in modern leadership.
+
+
+
 ---
 
-<span style="float: right">
-<img src="/Assets/Images/leadership.jpg" width ="200px" height="200px" />
-</span>
-
-# High Performance Leadership:   6 Cornerstone Principals Explained
 Many years ago, I was fortunate enough to be mentored by Professor W.D. Pienaar, a visionary leader in negotiation, advanced management and profiling, and a Professor Emeritus at UNISA Business School.
  Professor Pienaar identified 6 cornerstone principals of leadership that are based in psychology and economics that have proven over time to be highly effective.
  
@@ -20,7 +22,7 @@ Many years ago, I was fortunate enough to be mentored by Professor W.D. Pienaar,
 
 1. Law of diminishing returns - the first occurrence has the highest impact.
 
-2. Wolf effect ("Peter and the Wolf" - "false alarms" cause people to ignore your real alarms.
+2. Wolf effect - ("Peter and the Wolf" - "false alarms") - causes people to ignore your real alarms.
 
 3. Random interval, random reward - people are motivated by random rewards at random intervals.
 

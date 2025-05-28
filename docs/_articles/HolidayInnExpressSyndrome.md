@@ -1,9 +1,11 @@
 ---
-Title: "Holiday Inn Express Syndrome, Imposter Syndrome's dangerous cousin"
-Type: Article
-layout: default
+title: "Holiday Inn Express Syndrome, Imposter Syndrome's dangerous cousin"
+type: Articles
 datePublished: 2024-02-26
-Excerpt: discussing the  increasing occurance of leaders confident of their capabilities in areas where they are not qualified e.g. technology.
+date: 2024-02-26
+header:
+  overlay_image: /assets/images/HolidayInnExpress2.jpg
+excerpt: discussing the  increasing occurance of leaders confident of their capabilities in areas where they are not qualified e.g. technology.
 ---
 
 ## "Holiday Inn Express Syndrome, Imposter Syndrome's dangerous cousin"
